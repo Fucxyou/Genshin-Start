@@ -1,4 +1,4 @@
 # Genshin-Start
  这是一个搞怪网页源代码，点击确认进入原神启动页面
 # Demo
-Link: http://110.42.212.209/
+Link: [http://110.42.212.209/](https://fucxyou.github.io/)https://fucxyou.github.io/
